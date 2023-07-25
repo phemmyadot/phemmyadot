@@ -39,6 +39,10 @@ Apart from coding, I'm passionate about:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=phemmyadot&color=blueviolet)
 
+## Hashnode Blog Post
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
+
 ## My Transformative Journey in Software Development
 
 My fascination with software development began in 2011 when I took an online course, "Introduction to Java Programming," at Triton College ed2go. The allure of coding and the potential to create powerful solutions sparked my passion for technology.
