@@ -39,9 +39,9 @@ Apart from coding, I'm passionate about:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=phemmyadot&color=blueviolet)
 
-## Hashnode Blog Post
-<!-- HASHNODE:START -->
-<!-- HASHNODE:END -->
+## Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## My Transformative Journey in Software Development
 
