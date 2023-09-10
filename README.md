@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/phemmyadot/phemmyadot/blob/main/header.jpeg)
 
-Hello! 👋 I'm Babafemi Adojutelegan, a passionate and experienced Software Developer based in Chicago, IL. Welcome to my GitHub profile! You can access my [Portofolio](https://babafemicodes.dev) to learn more!
+Hello! 👋 I'm Babafemi Adojutelegan, a passionate and experienced Software Developer based in Chicago, IL. Welcome to my GitHub profile! You can access my [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](https://babafemicodes.dev) to learn more!
 
 ## Skills
 
@@ -75,8 +75,8 @@ As I look ahead, I am committed to fostering innovation, embracing emerging tech
 
 Feel free to reach out to me via;
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> babafemiadojutelegan@gmail.com
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto://babafemiadojutelegan@gmail.com)
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> [LinkedIn Profile](https://www.linkedin.com/in/phemmyadot).
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/phemmyadot).
 
 I'm always open to exciting collaborations and opportunities.
