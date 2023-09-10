@@ -51,7 +51,6 @@ Apart from coding, I'm passionate about:
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Choosing the Best State Management Library for Your Angular Application: A Comparison of NGRX and NGXS](https://babafemi-adojutelegan.hashnode.dev/ngrx-vs-ngxs-state-management-angular)
 <!-- BLOG-POST-LIST:END -->
 
