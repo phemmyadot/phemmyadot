@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/phemmyadot/phemmyadot/blob/main/header.jpeg)
 
-Hello! 👋 I'm Babafemi Adojutelegan, a passionate and experienced Software Developer based in Chicago, IL. Welcome to my GitHub profile! You can access my [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](https://babafemicodes.dev) to learn more!
+Hello! 👋 I'm Babafemi Adojutelegan, a passionate and experienced Software Developer based in Chicago, IL. Welcome to my GitHub profile!
 
 ## Skills
 
@@ -52,6 +52,8 @@ Apart from coding, I'm passionate about:
 
 <!-- BLOG-POST-LIST:START -->
 
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+
 - [Choosing the Best State Management Library for Your Angular Application: A Comparison of NGRX and NGXS](https://babafemi-adojutelegan.hashnode.dev/ngrx-vs-ngxs-state-management-angular)
 <!-- BLOG-POST-LIST:END -->
 
@@ -74,6 +76,8 @@ As I look ahead, I am committed to fostering innovation, embracing emerging tech
 ## Get in Touch
 
 Feel free to reach out to me via;
+
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](https://babafemicodes.dev)
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto://babafemiadojutelegan@gmail.com)
 
