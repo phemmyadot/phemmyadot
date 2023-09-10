@@ -33,7 +33,7 @@ Apart from coding, I'm passionate about:
 
 ## Contributions
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phemmyadot" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phemmyadot&theme=tokyonight" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phemmyadot" />
 
