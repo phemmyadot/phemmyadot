@@ -1,4 +1,5 @@
-# Babafemi Adojutelegan 
+# Babafemi Adojutelegan
+
 [Portofolio](https://babafemicodes.dev)
 
 ![Header](https://github.com/phemmyadot/phemmyadot/blob/main/header.jpeg)
@@ -10,10 +11,9 @@ Hello! 👋 I'm Babafemi Adojutelegan, a passionate and experienced Software Dev
 - Front-end: HTML, CSS, JavaScript, TypeScript, Angular, React, Vue.js, Next.js, Nuxt.js
 - Mobile: React Native, Flutter, Dart, Xamarin
 - Back-end: Node.js, Express.js, Nest.js, Django, Python, C#
-- Testing: Jasmine, Jest, Enzyme
-- <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/> 
-
-- Git, AWS, GCP, , Jest, Jasmine, NUnit
+  <img src=""/> <img src=""/> <img src=""/> <img src=""/>
+- <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 ## Awards and Achievements
 
@@ -49,7 +49,9 @@ Apart from coding, I'm passionate about:
 ![Profile Views](https://komarev.com/ghpvc/?username=phemmyadot&color=blueviolet)
 
 ## Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Choosing the Best State Management Library for Your Angular Application: A Comparison of NGRX and NGXS](https://babafemi-adojutelegan.hashnode.dev/ngrx-vs-ngxs-state-management-angular)
 <!-- BLOG-POST-LIST:END -->
 
@@ -72,4 +74,3 @@ As I look ahead, I am committed to fostering innovation, embracing emerging tech
 ## Get in Touch
 
 Feel free to reach out to me via email at babafmiadojutelegan@gmail.com or connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/phemmyadot). I'm always open to exciting collaborations and opportunities.
-
