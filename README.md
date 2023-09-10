@@ -35,7 +35,7 @@ Apart from coding, I'm passionate about:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phemmyadot&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phemmyadot" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phemmyadot&theme=tokyonight" />
 
 ![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=phemmyadot&theme=radical)
 
