@@ -1,6 +1,6 @@
 # Babafemi Adojutelegan
 
-![Header](https://github.com/phemmyadot/phemmyadot/blob/main/header.jpeg)
+<!-- ![Header](https://github.com/phemmyadot/phemmyadot/blob/main/header.jpeg) -->
 
 Hello! 👋 I'm Babafemi Adojutelegan, a passionate and experienced Software Developer based in Chicago, IL. Welcome to my GitHub profile!
 
