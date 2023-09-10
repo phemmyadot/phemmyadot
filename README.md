@@ -11,9 +11,9 @@ Hello! 👋 I'm Babafemi Adojutelegan, a passionate and experienced Software Dev
 - Mobile: React Native, Flutter, Dart, Xamarin
 - Back-end: Node.js, Express.js, Nest.js, Django, Python, C#
 - Testing: Jasmine, Jest, Enzyme
-- Tools: <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/> 
 
-- Git, AWS, GCP, Docker, Ansible, Jest, Jasmine, NUnit
+- Git, AWS, GCP, , Jest, Jasmine, NUnit
 
 ## Awards and Achievements
 
