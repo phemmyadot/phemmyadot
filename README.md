@@ -33,6 +33,8 @@ Apart from coding, I'm passionate about:
 
 ## Contributions
 
+![Your GitHub Contributions]https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={phemmyadot})
+
 ![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=phemmyadot&theme=radical)
 
 ## Visitors
