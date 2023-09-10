@@ -53,7 +53,6 @@ Apart from coding, I'm passionate about:
 <!-- BLOG-POST-LIST:START -->
 
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-
 - [Choosing the Best State Management Library for Your Angular Application: A Comparison of NGRX and NGXS](https://babafemi-adojutelegan.hashnode.dev/ngrx-vs-ngxs-state-management-angular)
 <!-- BLOG-POST-LIST:END -->
 
