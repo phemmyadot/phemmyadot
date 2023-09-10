@@ -74,7 +74,9 @@ As I look ahead, I am committed to fostering innovation, embracing emerging tech
 ## Get in Touch
 
 Feel free to reach out to me via;
+
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> babafemiadojutelegan@gmail.com
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> [LinkedIn Profile](https://www.linkedin.com/in/phemmyadot).
 
 I'm always open to exciting collaborations and opportunities.
