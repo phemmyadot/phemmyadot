@@ -25,11 +25,11 @@ Apart from coding, I'm passionate about:
 - Travel: Exploring new places and experiencing diverse cultures.
 - Sports: Playing soccer and staying active.
 
-## GitHub Stats
+<!---## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=phemmyadot&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phemmyadot&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phemmyadot&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) --->
 
 ## Contributions
 
