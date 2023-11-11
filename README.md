@@ -52,6 +52,7 @@ Apart from coding, I'm passionate about:
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Test-Driven Development in Modern Software Engineering](https://babafemi-adojutelegan.hashnode.dev/the-power-of-test-driven-development-in-modern-software-engineering)
 - [Choosing the Best State Management Library for Your Angular Application: A Comparison of NGRX and NGXS](https://babafemi-adojutelegan.hashnode.dev/ngrx-vs-ngxs-state-management-angular)
 <!-- BLOG-POST-LIST:END -->
 
