@@ -2,7 +2,7 @@
 
 <!-- ![Header](https://github.com/phemmyadot/phemmyadot/blob/main/header.jpeg) -->
 
-Hello! 👋 I'm Babafemi Adojutelegan, a passionate and experienced Software Developer based in Chicago, IL. Welcome to my GitHub profile!
+Hello! 👋 I'm Babafemi Adojutelegan, a passionate and experienced Software Developer based in Columbus, OH. Welcome to my GitHub profile!
 
 
 <!---## GitHub Stats
