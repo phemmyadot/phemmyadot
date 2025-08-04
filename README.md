@@ -40,8 +40,6 @@ As a Web Developer Intern at Accra Institute of Technology, I gained practical e
 
 In 2019, I embarked on a transformative journey by joining Eminent Technology as a Software Developer. This marked a pivotal moment as I dived into a diverse tech stack, including React.js, Angular, Vue.js, Node.js, Flutter, React Native, and many more. Contributing to the creation of a multiple softwares solutions for clients, and I witnessed firsthand the profound impact technology has on business success.
 
-Eager to explore the world of mobile app development, I embraced Flutter and React Native, building apps that earned a remarkable 4.5+ star rating on app stores.
-
 Throughout my career, I championed a testing-driven approach, implementing frameworks like Jest and Jasmine, resulting in significant bug reductions and enhanced software stability.
 
 As I look ahead, I am committed to fostering innovation, embracing emerging technologies, and making a positive impact with my expertise. My journey in software development has been nothing short of transformative, and I am excited to continue exploring the limitless possibilities that lie ahead.
