@@ -38,10 +38,6 @@ I have 9+ years of experience building production mobile and web applications ac
 
 ## Get in Touch
 
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](https://babafemicodes.dev)
-
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:babafemiadojutelegan@gmail.com)
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/badojutelegan)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](https://babafemicodes.dev) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:babafemiadojutelegan@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/badojutelegan)
 
 I'm always open to exciting collaborations and opportunities.
