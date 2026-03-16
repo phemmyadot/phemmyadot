@@ -12,9 +12,9 @@ I have 9+ years of experience building production mobile and web applications ac
 
 ## Contributions
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phemmyadot&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phemmyadot&theme=github_dark" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=phemmyadot&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=phemmyadot&theme=github_dark" />
 
 ## Blog Posts
 
