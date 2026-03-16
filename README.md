@@ -14,7 +14,13 @@ I have 9+ years of experience building production mobile and web applications ac
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phemmyadot&theme=github_dark" />
 
+<img src="https://streak-stats.demolab.com?user=phemmyadot&theme=github-dark-blue" />
+
 <img src="https://github-profile-trophy.vercel.app/?username=phemmyadot&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phemmyadot&theme=github_dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phemmyadot&layout=compact&theme=github_dark" />
 
 ## Blog Posts
 
